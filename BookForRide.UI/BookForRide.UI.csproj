@@ -135,11 +135,15 @@
     <Content Include="Content\bootstrap-reboot.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\datepicker.css" />
+    <Content Include="Content\glDatePicker.default.css" />
     <Content Include="Content\Images\main-banner2.jpg" />
     <Content Include="Content\Images\main-banner.jpg" />
+    <Content Include="Content\jquery.timepicker.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Scripts\bootstrap-datepicker.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -148,6 +152,7 @@
     <Content Include="Scripts\esm\popper-utils.min.js" />
     <Content Include="Scripts\esm\popper.js" />
     <Content Include="Scripts\esm\popper.min.js" />
+    <Content Include="Scripts\glDatePicker.js" />
     <Content Include="Scripts\index.js.flow" />
     <Content Include="Scripts\esm\popper.min.js.map" />
     <Content Include="Scripts\esm\popper.js.map" />
@@ -169,6 +174,7 @@
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.timepicker.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />

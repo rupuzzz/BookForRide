@@ -34,4 +34,15 @@ textarea {
 .header-text{
     width:100%;
 }
+
+.searchRideBox{
+    padding-top: 120px;
+}
+.headerbackgd{
+    background-color:yellow;
+}
+.formbackgd {
+    background-color: lavender;
+}
+
 /* end index page */
